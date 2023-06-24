@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+#d1{
+    align-items: center;
+    text-align: center;
+   
+}
+
+#d2,p{
+    padding-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+}
+
+h1{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+p{
+    width: auto;
+    text-align: center;
+    font-size: large;
+}
+
+.close{
+    margin-left: 10px;
+}
